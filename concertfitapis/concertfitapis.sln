@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concertfitapis", "concertfitapis\concertfitapis.csproj", "{3A2317E7-3E20-46EB-9835-3554A6D53E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2317E7-3E20-46EB-9835-3554A6D53E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2317E7-3E20-46EB-9835-3554A6D53E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2317E7-3E20-46EB-9835-3554A6D53E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2317E7-3E20-46EB-9835-3554A6D53E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B14E6A-0716-468B-B638-AEF82D6C0A0D}
+	EndGlobalSection
+EndGlobal
