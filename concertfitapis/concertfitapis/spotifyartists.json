@@ -1,0 +1,2377 @@
+[
+  {
+    "artist": "Darius Rucker",
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+          },
+          "href": "https://api.spotify.com/v1/albums/6cowf7fdb5dgKoglTekOK8",
+          "id": "6cowf7fdb5dgKoglTekOK8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/73a9a4b18bcbb2649bfd91eb4636e14a4b1b52e8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c871a5e597ffbc86d77a2bea242ea7c0b9ec57d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/81bcedf2fb67010718000c080ac1e609a4a05979",
+              "width": 64
+            }
+          ],
+          "name": "True Believers",
+          "release_date": "2013-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:6cowf7fdb5dgKoglTekOK8"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 298373,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN11200248"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3xdjjKMcMOFgo1eQrfbogM",
+        "id": "3xdjjKMcMOFgo1eQrfbogM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Wagon Wheel",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/ec91f1e20a66deb0923b44f4394e3a276dff2990?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3xdjjKMcMOFgo1eQrfbogM"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+          },
+          "href": "https://api.spotify.com/v1/albums/4HJ13QK0o292BbCtqww9BK",
+          "id": "4HJ13QK0o292BbCtqww9BK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27390d2f0adb8a2631fd09c6750",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0290d2f0adb8a2631fd09c6750",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485190d2f0adb8a2631fd09c6750",
+              "width": 64
+            }
+          ],
+          "name": "Learn To Live",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4HJ13QK0o292BbCtqww9BK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230388,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN10801453"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JlH51YDYsGj2dyEJKKjcN",
+        "id": "5JlH51YDYsGj2dyEJKKjcN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Alright",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/85c9947d6f05afb7b3116201d0d78ded3fb9e559?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5JlH51YDYsGj2dyEJKKjcN"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6SVzzB0SnMlBXcHsmhNxzC",
+          "id": "6SVzzB0SnMlBXcHsmhNxzC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/452b34284f6a249229cb385fa3f15af112c20cbb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/61f1559a3f4d0bf5e9b7a1685ecc4882b166f491",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c5a4ff79d7cb6086f24464bc118d5b0c27a32265",
+              "width": 64
+            }
+          ],
+          "name": "When Was The Last Time",
+          "release_date": "2017-10-20",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6SVzzB0SnMlBXcHsmhNxzC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212320,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71605782"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Az17HfqonKSWNsaLgTBeK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Az17HfqonKSWNsaLgTBeK",
+        "id": "4Az17HfqonKSWNsaLgTBeK",
+        "is_local": false,
+        "is_playable": true,
+        "name": "If I Told You",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/186c93b06fa1b8082fb5e416b0c15de25ff7c727?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4Az17HfqonKSWNsaLgTBeK"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6SVzzB0SnMlBXcHsmhNxzC",
+          "id": "6SVzzB0SnMlBXcHsmhNxzC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/452b34284f6a249229cb385fa3f15af112c20cbb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/61f1559a3f4d0bf5e9b7a1685ecc4882b166f491",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c5a4ff79d7cb6086f24464bc118d5b0c27a32265",
+              "width": 64
+            }
+          ],
+          "name": "When Was The Last Time",
+          "release_date": "2017-10-20",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6SVzzB0SnMlBXcHsmhNxzC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197053,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71706867"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0LG2cFomCi8Fb664Lvr3Nu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0LG2cFomCi8Fb664Lvr3Nu",
+        "id": "0LG2cFomCi8Fb664Lvr3Nu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "For The First Time",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/48ebb67904ac208a0ea760eaa19e695e2b3e2177?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0LG2cFomCi8Fb664Lvr3Nu"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
+          },
+          "href": "https://api.spotify.com/v1/albums/6JfkOQdTGmLEwQvybMNMup",
+          "id": "6JfkOQdTGmLEwQvybMNMup",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/fa131f95f89dccf447970a2d71acb68c76c2b8d9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/37e78705bc15a30c37ce4fa69b4fd65bd15c0ec9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/1677d05dfba2f41998a83bdc4ec7bb1f9cb8b602",
+              "width": 64
+            }
+          ],
+          "name": "Charleston, SC 1966",
+          "release_date": "2010-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6JfkOQdTGmLEwQvybMNMup"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235146,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN11000137"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sHOAALFZiNa4wukjPSBpq",
+        "id": "4sHOAALFZiNa4wukjPSBpq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Come Back Song",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/777c1dd66c468f56da5a31db31cd42834eb983b2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4sHOAALFZiNa4wukjPSBpq"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+          },
+          "href": "https://api.spotify.com/v1/albums/4HJ13QK0o292BbCtqww9BK",
+          "id": "4HJ13QK0o292BbCtqww9BK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27390d2f0adb8a2631fd09c6750",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0290d2f0adb8a2631fd09c6750",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485190d2f0adb8a2631fd09c6750",
+              "width": 64
+            }
+          ],
+          "name": "Learn To Live",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4HJ13QK0o292BbCtqww9BK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217431,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN10801454"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gzeYkzuzxuzAUTsGcdjqA",
+        "id": "4gzeYkzuzxuzAUTsGcdjqA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It Won't Be Like This For Long",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/3a988d9fbbe9879585f5d919ea8d5d1c63563004?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4gzeYkzuzxuzAUTsGcdjqA"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+              },
+              "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+              "id": "43ZHCT0cAZBISjO8DG9PnE",
+              "name": "Elvis Presley",
+              "type": "artist",
+              "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01"
+          },
+          "href": "https://api.spotify.com/v1/albums/1vaQwUom5fWnLNJDcabU01",
+          "id": "1vaQwUom5fWnLNJDcabU01",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27364bacd30d444e59fb40319e0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0264bacd30d444e59fb40319e0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485164bacd30d444e59fb40319e0",
+              "width": 64
+            }
+          ],
+          "name": "The Best of The '68 Comeback Special",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:1vaQwUom5fWnLNJDcabU01"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+            },
+            "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+            "id": "43ZHCT0cAZBISjO8DG9PnE",
+            "name": "Elvis Presley",
+            "type": "artist",
+            "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+            },
+            "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+            "id": "246dkjvS1zLTtiykXe5h60",
+            "name": "Post Malone",
+            "type": "artist",
+            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+            },
+            "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+            "id": "7n2wHs1TKAczGzO7Dd2rGr",
+            "name": "Shawn Mendes",
+            "type": "artist",
+            "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+            "id": "1UTPBmNbXNTittyMJrNkvw",
+            "name": "Blake Shelton",
+            "type": "artist",
+            "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xFUf1FHVy696Q1JQZMTRj",
+            "id": "4xFUf1FHVy696Q1JQZMTRj",
+            "name": "Carrie Underwood",
+            "type": "artist",
+            "uri": "spotify:artist:4xFUf1FHVy696Q1JQZMTRj"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190573,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRC11803916"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6L0bHTV6hf9UL6uCezlJCC",
+        "id": "6L0bHTV6hf9UL6uCezlJCC",
+        "is_local": false,
+        "is_playable": true,
+        "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/a277ad09e179423f6e88b6a887cfe02df7d31f57?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:6L0bHTV6hf9UL6uCezlJCC"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6SVzzB0SnMlBXcHsmhNxzC",
+          "id": "6SVzzB0SnMlBXcHsmhNxzC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/452b34284f6a249229cb385fa3f15af112c20cbb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/61f1559a3f4d0bf5e9b7a1685ecc4882b166f491",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c5a4ff79d7cb6086f24464bc118d5b0c27a32265",
+              "width": 64
+            }
+          ],
+          "name": "When Was The Last Time",
+          "release_date": "2017-10-20",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6SVzzB0SnMlBXcHsmhNxzC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+            "id": "3FfvYsEGaIb52QPXhg4DcH",
+            "name": "Jason Aldean",
+            "type": "artist",
+            "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+            },
+            "href": "https://api.spotify.com/v1/artists/0BvkDsjIUla7X0k6CSWh1I",
+            "id": "0BvkDsjIUla7X0k6CSWh1I",
+            "name": "Luke Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:0BvkDsjIUla7X0k6CSWh1I"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Hbxyk7qJ22i8wFEqgM3vC",
+            "id": "2Hbxyk7qJ22i8wFEqgM3vC",
+            "name": "Charles Kelley",
+            "type": "artist",
+            "uri": "spotify:artist:2Hbxyk7qJ22i8wFEqgM3vC"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71707746"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/408JSy42j9aL8EMO9sPsYb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/408JSy42j9aL8EMO9sPsYb",
+        "id": "408JSy42j9aL8EMO9sPsYb",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Straight To Hell",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/124240276c80715c045390cc53a0aa1b39848d46?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:408JSy42j9aL8EMO9sPsYb"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
+          },
+          "href": "https://api.spotify.com/v1/albums/6JfkOQdTGmLEwQvybMNMup",
+          "id": "6JfkOQdTGmLEwQvybMNMup",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/fa131f95f89dccf447970a2d71acb68c76c2b8d9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/37e78705bc15a30c37ce4fa69b4fd65bd15c0ec9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/1677d05dfba2f41998a83bdc4ec7bb1f9cb8b602",
+              "width": 64
+            }
+          ],
+          "name": "Charleston, SC 1966",
+          "release_date": "2010-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6JfkOQdTGmLEwQvybMNMup"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218866,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN11000238"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fIvjDuusQK59brMgHV9qb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fIvjDuusQK59brMgHV9qb",
+        "id": "6fIvjDuusQK59brMgHV9qb",
+        "is_local": false,
+        "is_playable": true,
+        "name": "This",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/46714c2aded582aa81fd6a0c202fd24084404556?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6fIvjDuusQK59brMgHV9qb"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+              "id": "7FY5V3XMwlNBPitEjXowHQ",
+              "name": "Darius Rucker",
+              "type": "artist",
+              "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+          },
+          "href": "https://api.spotify.com/v1/albums/4HJ13QK0o292BbCtqww9BK",
+          "id": "4HJ13QK0o292BbCtqww9BK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27390d2f0adb8a2631fd09c6750",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0290d2f0adb8a2631fd09c6750",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485190d2f0adb8a2631fd09c6750",
+              "width": 64
+            }
+          ],
+          "name": "Learn To Live",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4HJ13QK0o292BbCtqww9BK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/7FY5V3XMwlNBPitEjXowHQ",
+            "id": "7FY5V3XMwlNBPitEjXowHQ",
+            "name": "Darius Rucker",
+            "type": "artist",
+            "uri": "spotify:artist:7FY5V3XMwlNBPitEjXowHQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181812,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN10800926"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XfFxeXzMkIy5SWAVpOQin",
+        "id": "0XfFxeXzMkIy5SWAVpOQin",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Don't Think I Don't Think About It",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/e0c6e9d4ce629e63dc3e5d79c2415c8696adfd4c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0XfFxeXzMkIy5SWAVpOQin"
+      }
+    ]
+  },
+  {
+    "artist": "Billy Joel",
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+          },
+          "href": "https://api.spotify.com/v1/albums/3R3x4zIabsvpD3yxqLaUpc",
+          "id": "3R3x4zIabsvpD3yxqLaUpc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02814cbc4746358a25c84c62e7",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7",
+              "width": 64
+            }
+          ],
+          "name": "An Innocent Man",
+          "release_date": "1983-08-08",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:3R3x4zIabsvpD3yxqLaUpc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197706,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM18300270"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zA8vzDGqPl2AzZkEYQGKh",
+        "id": "5zA8vzDGqPl2AzZkEYQGKh",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Uptown Girl",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/fcc3b727931ee5011d48e54124f7982cebc0433a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+          },
+          "href": "https://api.spotify.com/v1/albums/69wjSAZXZiD2EBia3b3gxL",
+          "id": "69wjSAZXZiD2EBia3b3gxL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851aff4aef671b2510be7c115b3",
+              "width": 64
+            }
+          ],
+          "name": "Piano Man (Legacy Edition)",
+          "release_date": "1973-11-07",
+          "release_date_precision": "day",
+          "total_tracks": 33,
+          "type": "album",
+          "uri": "spotify:album:69wjSAZXZiD2EBia3b3gxL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 339000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17300504"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70C4NyhjD5OZUMzvWZ3njJ",
+        "id": "70C4NyhjD5OZUMzvWZ3njJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Piano Man",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/7f1dc0e2f56c946849ac2e61dfa1ce827fb8dc70?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:70C4NyhjD5OZUMzvWZ3njJ"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Vw2uoVkLAJFVViJ1QyK1D",
+          "id": "1Vw2uoVkLAJFVViJ1QyK1D",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511946747b8692919f98918ec4",
+              "width": 64
+            }
+          ],
+          "name": "Storm Front",
+          "release_date": "1989-10-17",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:1Vw2uoVkLAJFVViJ1QyK1D"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 287733,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM18900217"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Cx4yrFaX8CeHwBMReOWXI",
+        "id": "3Cx4yrFaX8CeHwBMReOWXI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "We Didn't Start the Fire",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/84365368ace21bc568ed0d9b0b18669a58963297?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3Cx4yrFaX8CeHwBMReOWXI"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+          "id": "1Mhn9VosyjtWn4dMPFlna6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+              "width": 64
+            }
+          ],
+          "name": "The Stranger (Legacy Edition)",
+          "release_date": "1977",
+          "release_date_precision": "year",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201373,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17700375"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RgFlk1fcClZd0Y4SGYhqH",
+        "id": "5RgFlk1fcClZd0Y4SGYhqH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "She's Always a Woman",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/3bb1828418f2d6a4c039139b46812ceb4d1d75fe?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5RgFlk1fcClZd0Y4SGYhqH"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+          "id": "1Mhn9VosyjtWn4dMPFlna6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+              "width": 64
+            }
+          ],
+          "name": "The Stranger (Legacy Edition)",
+          "release_date": "1977",
+          "release_date_precision": "year",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214240,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17700373"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4U45aEWtQhrm8A5mxPaFZ7",
+        "id": "4U45aEWtQhrm8A5mxPaFZ7",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Vienna",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/b89ebbbeb75da99a2cf4b893d0d966df9da434ba?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+          "id": "1Mhn9VosyjtWn4dMPFlna6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+              "width": 64
+            }
+          ],
+          "name": "The Stranger (Legacy Edition)",
+          "release_date": "1977",
+          "release_date_precision": "year",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290573,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17700371"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/49MHCPzvMLXhRjDantBMVH",
+        "id": "49MHCPzvMLXhRjDantBMVH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Just the Way You Are",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/ef6c2caa85012dbc077651c06256c4b2b5940088?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:49MHCPzvMLXhRjDantBMVH"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+          },
+          "href": "https://api.spotify.com/v1/albums/5sztejERqpktXEdemlUvU5",
+          "id": "5sztejERqpktXEdemlUvU5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0222d5199692d318c28d6c7d9b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485122d5199692d318c28d6c7d9b",
+              "width": 64
+            }
+          ],
+          "name": "Glass Houses",
+          "release_date": "1980-03-12",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5sztejERqpktXEdemlUvU5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM18000211"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64UioB4Nmwgn2f4cbIpAkl",
+        "id": "64UioB4Nmwgn2f4cbIpAkl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It's Still Rock and Roll to Me",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/6093eca9ada1703e23bed495e84cb8ded9a6496f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:64UioB4Nmwgn2f4cbIpAkl"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+          },
+          "href": "https://api.spotify.com/v1/albums/1HmCO8VK98AU6EXPOjGYyI",
+          "id": "1HmCO8VK98AU6EXPOjGYyI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511d4675d5a0345bb93686e4b6",
+              "width": 64
+            }
+          ],
+          "name": "52nd Street",
+          "release_date": "1978-10-13",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:1HmCO8VK98AU6EXPOjGYyI"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17800448"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZoBC5MhSEzuknIgAkBaoT",
+        "id": "4ZoBC5MhSEzuknIgAkBaoT",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Life",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/d5681b0bf1b85cc070a61964e615df004d61c13b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4ZoBC5MhSEzuknIgAkBaoT"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Mhn9VosyjtWn4dMPFlna6",
+          "id": "1Mhn9VosyjtWn4dMPFlna6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+              "width": 64
+            }
+          ],
+          "name": "The Stranger (Legacy Edition)",
+          "release_date": "1977",
+          "release_date_precision": "year",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:1Mhn9VosyjtWn4dMPFlna6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM17700374"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xOXXYh6lTW8laxlW7JP2J",
+        "id": "1xOXXYh6lTW8laxlW7JP2J",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Only the Good Die Young",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/38bb6563aa7d0c9d0940fae8c1a2b63d02c93673?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1xOXXYh6lTW8laxlW7JP2J"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+              },
+              "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+              "id": "6zFYqv1mOsgBRQbae3JJ9e",
+              "name": "Billy Joel",
+              "type": "artist",
+              "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+          },
+          "href": "https://api.spotify.com/v1/albums/3R3x4zIabsvpD3yxqLaUpc",
+          "id": "3R3x4zIabsvpD3yxqLaUpc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02814cbc4746358a25c84c62e7",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7",
+              "width": 64
+            }
+          ],
+          "name": "An Innocent Man",
+          "release_date": "1983-08-08",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:3R3x4zIabsvpD3yxqLaUpc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+            },
+            "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+            "id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "name": "Billy Joel",
+            "type": "artist",
+            "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM18300273"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5DH7nDryMhpixm4G4B7RP9",
+        "id": "5DH7nDryMhpixm4G4B7RP9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Longest Time",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/e7b0e6fe2568e7b948e6d9684023ceb254f6460e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5DH7nDryMhpixm4G4B7RP9"
+      }
+    ]
+  },
+  {
+    "artist": "Michael Buble",
+    "tracks": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+          },
+          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
+          "id": "3CKVXhODttZebJAzjUs2un",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
+              "width": 64
+            }
+          ],
+          "name": "Christmas",
+          "release_date": "2011-10-14",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206639,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE11100700"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lLdorYw7lVrJydTINhWdI",
+        "id": "0lLdorYw7lVrJydTINhWdI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It's Beginning to Look a Lot like Christmas",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/798a8bc5a7a95ccad75648a63bc50aa755dc2289?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lLdorYw7lVrJydTINhWdI"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+          },
+          "href": "https://api.spotify.com/v1/albums/3MXDonOIzrIrCh0HvlACyj",
+          "id": "3MXDonOIzrIrCh0HvlACyj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f0cc194252888c6658c706ab",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f0cc194252888c6658c706ab",
+              "width": 64
+            }
+          ],
+          "name": "Crazy Love",
+          "release_date": "2009-10-06",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:3MXDonOIzrIrCh0HvlACyj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244586,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE10901437"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fIWvT19w9PR0VVBuPYpWA",
+        "id": "4fIWvT19w9PR0VVBuPYpWA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Haven't Met You Yet",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/1d0f610c854617098d1fadef34b398360b702434?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4fIWvT19w9PR0VVBuPYpWA"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+          },
+          "href": "https://api.spotify.com/v1/albums/3h4pyWRJIB9ZyRKXChbX22",
+          "id": "3h4pyWRJIB9ZyRKXChbX22",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022ceedc8c879a1f6784fbeef5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512ceedc8c879a1f6784fbeef5",
+              "width": 64
+            }
+          ],
+          "name": "Call Me Irresponsible (Standard Edition)",
+          "release_date": "2007-04-30",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:3h4pyWRJIB9ZyRKXChbX22"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212373,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE10700317"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4T6HLdP6OcAtqC6tGnQelG",
+        "id": "4T6HLdP6OcAtqC6tGnQelG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Everything",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/cc3b7444ee1e70d073f762c60d211c313bdc9385?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4T6HLdP6OcAtqC6tGnQelG"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
+          },
+          "href": "https://api.spotify.com/v1/albums/2koUTBXkwUt2uJYv0uezHx",
+          "id": "2koUTBXkwUt2uJYv0uezHx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025d7d966732bd44ac2a13b614",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515d7d966732bd44ac2a13b614",
+              "width": 64
+            }
+          ],
+          "name": "It's Time",
+          "release_date": "2005-02-07",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2koUTBXkwUt2uJYv0uezHx"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 225906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE10401888"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wLZ4zPM9c4oe1VV8ejdWV",
+        "id": "4wLZ4zPM9c4oe1VV8ejdWV",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Home",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b77063b23e010c31ba91154967624ae14c7247d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4wLZ4zPM9c4oe1VV8ejdWV"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+          },
+          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
+          "id": "3CKVXhODttZebJAzjUs2un",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
+              "width": 64
+            }
+          ],
+          "name": "Christmas",
+          "release_date": "2011-10-14",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 119786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE11100705"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tjituizSxwSmBB5vtgHZE",
+        "id": "6tjituizSxwSmBB5vtgHZE",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Holly Jolly Christmas",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/f7962fe13e7e25fcc1963373acf61d289bbcdf6d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6tjituizSxwSmBB5vtgHZE"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+          },
+          "href": "https://api.spotify.com/v1/albums/68xKnVblFsSQ48CtgZT0oY",
+          "id": "68xKnVblFsSQ48CtgZT0oY",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025f3f20826d44c30a017fd68e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515f3f20826d44c30a017fd68e",
+              "width": 64
+            }
+          ],
+          "name": "love (Deluxe Edition)",
+          "release_date": "2018-11-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:68xKnVblFsSQ48CtgZT0oY"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182666,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE11800675"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7JEUg9KqmpdIE5Nbb9ss66",
+        "id": "7JEUg9KqmpdIE5Nbb9ss66",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love You Anymore",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/d463db7cea7de9714d2ec9723a737352788aaa3c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7JEUg9KqmpdIE5Nbb9ss66"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+          },
+          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
+          "id": "3CKVXhODttZebJAzjUs2un",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
+              "width": 64
+            }
+          ],
+          "name": "Christmas",
+          "release_date": "2011-10-14",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 171093,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE11100701"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ber68jZ7ytegr2UISEdb7",
+        "id": "5Ber68jZ7ytegr2UISEdb7",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Santa Claus Is Coming to Town",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/bd010602753203f389e32bd1c7bec2a88c020aa8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Ber68jZ7ytegr2UISEdb7"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
+          },
+          "href": "https://api.spotify.com/v1/albums/2koUTBXkwUt2uJYv0uezHx",
+          "id": "2koUTBXkwUt2uJYv0uezHx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025d7d966732bd44ac2a13b614",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515d7d966732bd44ac2a13b614",
+              "width": 64
+            }
+          ],
+          "name": "It's Time",
+          "release_date": "2005-02-07",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2koUTBXkwUt2uJYv0uezHx"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE10401889"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3I09LQbHS3NSU46Ly3tPpR",
+        "id": "3I09LQbHS3NSU46Ly3tPpR",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Feeling Good",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/31fc9f95c681542af33e72bda7baa4951117dccd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3I09LQbHS3NSU46Ly3tPpR"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+          },
+          "href": "https://api.spotify.com/v1/albums/4Yf5LJfqpjgl1a4TBiCi07",
+          "id": "4Yf5LJfqpjgl1a4TBiCi07",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273051ae642ad4a0c1329b41d99",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02051ae642ad4a0c1329b41d99",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851051ae642ad4a0c1329b41d99",
+              "width": 64
+            }
+          ],
+          "name": "To Be Loved",
+          "release_date": "2013-04-11",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:4Yf5LJfqpjgl1a4TBiCi07"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE11300016"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mvkwaZMP2gAy2ApQLtZRv",
+        "id": "0mvkwaZMP2gAy2ApQLtZRv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It's a Beautiful Day",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/7eea4fbd8aa6c11d2dc0dee7158b4b50c26202a6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0mvkwaZMP2gAy2ApQLtZRv"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+              "id": "1GxkXlMwML1oSg5eLPiAz3",
+              "name": "Michael Bublé",
+              "type": "artist",
+              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+          },
+          "href": "https://api.spotify.com/v1/albums/3rpSksJSFdNFqk5vne8at2",
+          "id": "3rpSksJSFdNFqk5vne8at2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/7b8f628d6723c52e4592657359894f7ec2244744",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/8e386e5cacaf689485ea99dd11f7adf46eb48c35",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/789ac7a323768c29e6bd1a2e41f6a596bada0a31",
+              "width": 64
+            }
+          ],
+          "name": "Michael Bublé",
+          "release_date": "2003",
+          "release_date_precision": "year",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:3rpSksJSFdNFqk5vne8at2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+            "id": "1GxkXlMwML1oSg5eLPiAz3",
+            "name": "Michael Bublé",
+            "type": "artist",
+            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188066,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRE10201551"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ajUl8lBLAXOXNpG4NEPMz",
+        "id": "2ajUl8lBLAXOXNpG4NEPMz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sway",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/3079716f594be8be583389382496a4d1d7160762?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2ajUl8lBLAXOXNpG4NEPMz"
+      }
+    ]
+  }
+]

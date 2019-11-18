@@ -21,7 +21,6 @@ namespace concertfitapis.Pages
             {
                 string json = r.ReadToEnd();
                 TicketMasterResponse.TopLevel ticketMasterResponseTopLevel = TicketMasterResponse.TopLevel.FromJson(json);
-                /*TicketMasterResponse.TopLevel ticketMasterResponseTopLevel = JsonConvert.DeserializeObject<TicketMasterResponse.TopLevel>(json);*/
                 return ticketMasterResponseTopLevel;
             }
         }
