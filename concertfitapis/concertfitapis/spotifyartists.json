@@ -1610,7 +1610,7 @@
     ]
   },
   {
-    "artist": "Michael Buble",
+    "artist": "Dermot Kennedy",
     "tracks": [
       {
         "album": {
@@ -1618,227 +1618,75 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
               },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
               "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
           },
-          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
-          "id": "3CKVXhODttZebJAzjUs2un",
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
               "width": 64
             }
           ],
-          "name": "Christmas",
-          "release_date": "2011-10-14",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 206639,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE11100700"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0lLdorYw7lVrJydTINhWdI",
-        "id": "0lLdorYw7lVrJydTINhWdI",
-        "is_local": false,
-        "is_playable": true,
-        "name": "It's Beginning to Look a Lot like Christmas",
-        "popularity": 66,
-        "preview_url": "https://p.scdn.co/mp3-preview/798a8bc5a7a95ccad75648a63bc50aa755dc2289?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:0lLdorYw7lVrJydTINhWdI"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-          },
-          "href": "https://api.spotify.com/v1/albums/3MXDonOIzrIrCh0HvlACyj",
-          "id": "3MXDonOIzrIrCh0HvlACyj",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02f0cc194252888c6658c706ab",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851f0cc194252888c6658c706ab",
-              "width": 64
-            }
-          ],
-          "name": "Crazy Love",
-          "release_date": "2009-10-06",
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
           "release_date_precision": "day",
           "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:3MXDonOIzrIrCh0HvlACyj"
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
             },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
             "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
           }
         ],
         "disc_number": 1,
-        "duration_ms": 244586,
+        "duration_ms": 245699,
         "explicit": false,
         "external_ids": {
-          "isrc": "USRE10901437"
+          "isrc": "USUG11901618"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+          "spotify": "https://open.spotify.com/track/4Ta3PhWmY50ZLU1uhKFKPE"
         },
-        "href": "https://api.spotify.com/v1/tracks/4fIWvT19w9PR0VVBuPYpWA",
-        "id": "4fIWvT19w9PR0VVBuPYpWA",
+        "href": "https://api.spotify.com/v1/tracks/4Ta3PhWmY50ZLU1uhKFKPE",
+        "id": "4Ta3PhWmY50ZLU1uhKFKPE",
         "is_local": false,
         "is_playable": true,
-        "name": "Haven't Met You Yet",
+        "name": "Outnumbered",
         "popularity": 75,
-        "preview_url": "https://p.scdn.co/mp3-preview/1d0f610c854617098d1fadef34b398360b702434?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 5,
-        "type": "track",
-        "uri": "spotify:track:4fIWvT19w9PR0VVBuPYpWA"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-          },
-          "href": "https://api.spotify.com/v1/albums/3h4pyWRJIB9ZyRKXChbX22",
-          "id": "3h4pyWRJIB9ZyRKXChbX22",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e022ceedc8c879a1f6784fbeef5",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048512ceedc8c879a1f6784fbeef5",
-              "width": 64
-            }
-          ],
-          "name": "Call Me Irresponsible (Standard Edition)",
-          "release_date": "2007-04-30",
-          "release_date_precision": "day",
-          "total_tracks": 13,
-          "type": "album",
-          "uri": "spotify:album:3h4pyWRJIB9ZyRKXChbX22"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 212373,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE10700317"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4T6HLdP6OcAtqC6tGnQelG",
-        "id": "4T6HLdP6OcAtqC6tGnQelG",
-        "is_local": false,
-        "is_playable": true,
-        "name": "Everything",
-        "popularity": 74,
-        "preview_url": "https://p.scdn.co/mp3-preview/cc3b7444ee1e70d073f762c60d211c313bdc9385?cid=774b29d4f13844c495f206cafdad9c86",
+        "preview_url": "https://p.scdn.co/mp3-preview/8cec3c4d97c8a752782720ffd8211e5a0f105544?cid=774b29d4f13844c495f206cafdad9c86",
         "track_number": 9,
         "type": "track",
-        "uri": "spotify:track:4T6HLdP6OcAtqC6tGnQelG"
+        "uri": "spotify:track:4Ta3PhWmY50ZLU1uhKFKPE"
       },
       {
         "album": {
@@ -1846,227 +1694,75 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
               },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
               "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
           },
-          "href": "https://api.spotify.com/v1/albums/2koUTBXkwUt2uJYv0uezHx",
-          "id": "2koUTBXkwUt2uJYv0uezHx",
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614",
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025d7d966732bd44ac2a13b614",
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515d7d966732bd44ac2a13b614",
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
               "width": 64
             }
           ],
-          "name": "It's Time",
-          "release_date": "2005-02-07",
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
           "release_date_precision": "day",
           "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:2koUTBXkwUt2uJYv0uezHx"
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
             },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
             "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
           }
         ],
         "disc_number": 1,
-        "duration_ms": 225906,
+        "duration_ms": 206960,
         "explicit": false,
         "external_ids": {
-          "isrc": "USRE10401888"
+          "isrc": "USUG11802208"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
+          "spotify": "https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs"
         },
-        "href": "https://api.spotify.com/v1/tracks/4wLZ4zPM9c4oe1VV8ejdWV",
-        "id": "4wLZ4zPM9c4oe1VV8ejdWV",
+        "href": "https://api.spotify.com/v1/tracks/4tViDtaHuSLnh7HVJTrKhs",
+        "id": "4tViDtaHuSLnh7HVJTrKhs",
         "is_local": false,
         "is_playable": true,
-        "name": "Home",
-        "popularity": 66,
-        "preview_url": "https://p.scdn.co/mp3-preview/0b77063b23e010c31ba91154967624ae14c7247d?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 5,
-        "type": "track",
-        "uri": "spotify:track:4wLZ4zPM9c4oe1VV8ejdWV"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-          },
-          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
-          "id": "3CKVXhODttZebJAzjUs2un",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
-              "width": 64
-            }
-          ],
-          "name": "Christmas",
-          "release_date": "2011-10-14",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 119786,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE11100705"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6tjituizSxwSmBB5vtgHZE",
-        "id": "6tjituizSxwSmBB5vtgHZE",
-        "is_local": false,
-        "is_playable": true,
-        "name": "Holly Jolly Christmas",
-        "popularity": 67,
-        "preview_url": "https://p.scdn.co/mp3-preview/f7962fe13e7e25fcc1963373acf61d289bbcdf6d?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 6,
-        "type": "track",
-        "uri": "spotify:track:6tjituizSxwSmBB5vtgHZE"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-          },
-          "href": "https://api.spotify.com/v1/albums/68xKnVblFsSQ48CtgZT0oY",
-          "id": "68xKnVblFsSQ48CtgZT0oY",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025f3f20826d44c30a017fd68e",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515f3f20826d44c30a017fd68e",
-              "width": 64
-            }
-          ],
-          "name": "love (Deluxe Edition)",
-          "release_date": "2018-11-16",
-          "release_date_precision": "day",
-          "total_tracks": 13,
-          "type": "album",
-          "uri": "spotify:album:68xKnVblFsSQ48CtgZT0oY"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 182666,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE11800675"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7JEUg9KqmpdIE5Nbb9ss66",
-        "id": "7JEUg9KqmpdIE5Nbb9ss66",
-        "is_local": false,
-        "is_playable": true,
-        "name": "Love You Anymore",
-        "popularity": 72,
-        "preview_url": "https://p.scdn.co/mp3-preview/d463db7cea7de9714d2ec9723a737352788aaa3c?cid=774b29d4f13844c495f206cafdad9c86",
+        "name": "Power Over Me",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/afbb4874bfca5d6272ba3a9b7618fe023563623d?cid=774b29d4f13844c495f206cafdad9c86",
         "track_number": 3,
         "type": "track",
-        "uri": "spotify:track:7JEUg9KqmpdIE5Nbb9ss66"
+        "uri": "spotify:track:4tViDtaHuSLnh7HVJTrKhs"
       },
       {
         "album": {
@@ -2074,151 +1770,303 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
               },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
               "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
           },
-          "href": "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
-          "id": "3CKVXhODttZebJAzjUs2un",
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/d4cdda635d35510a60cabcf8423e64c8529ab8fa",
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/c9edee09d9b13a33a161f441a73208dfebdd2aa2",
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/95b02d8a1dbd579078909de8520111de9aa90c4e",
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
               "width": 64
             }
           ],
-          "name": "Christmas",
-          "release_date": "2011-10-14",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:3CKVXhODttZebJAzjUs2un"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 171093,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE11100701"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5Ber68jZ7ytegr2UISEdb7",
-        "id": "5Ber68jZ7ytegr2UISEdb7",
-        "is_local": false,
-        "is_playable": true,
-        "name": "Santa Claus Is Coming to Town",
-        "popularity": 56,
-        "preview_url": "https://p.scdn.co/mp3-preview/bd010602753203f389e32bd1c7bec2a88c020aa8?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:5Ber68jZ7ytegr2UISEdb7"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
-          },
-          "href": "https://api.spotify.com/v1/albums/2koUTBXkwUt2uJYv0uezHx",
-          "id": "2koUTBXkwUt2uJYv0uezHx",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735d7d966732bd44ac2a13b614",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025d7d966732bd44ac2a13b614",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515d7d966732bd44ac2a13b614",
-              "width": 64
-            }
-          ],
-          "name": "It's Time",
-          "release_date": "2005-02-07",
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
           "release_date_precision": "day",
           "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:2koUTBXkwUt2uJYv0uezHx"
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
             },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
             "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
           }
         ],
         "disc_number": 1,
-        "duration_ms": 237333,
+        "duration_ms": 247060,
         "explicit": false,
         "external_ids": {
-          "isrc": "USRE10401889"
+          "isrc": "USUG11901871"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
+          "spotify": "https://open.spotify.com/track/70pP6E6VvznsfrSsznnQnk"
         },
-        "href": "https://api.spotify.com/v1/tracks/3I09LQbHS3NSU46Ly3tPpR",
-        "id": "3I09LQbHS3NSU46Ly3tPpR",
+        "href": "https://api.spotify.com/v1/tracks/70pP6E6VvznsfrSsznnQnk",
+        "id": "70pP6E6VvznsfrSsznnQnk",
         "is_local": false,
         "is_playable": true,
-        "name": "Feeling Good",
-        "popularity": 65,
-        "preview_url": "https://p.scdn.co/mp3-preview/31fc9f95c681542af33e72bda7baa4951117dccd?cid=774b29d4f13844c495f206cafdad9c86",
+        "name": "All My Friends",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/4613706e37ce42229ac5accc8586e6d787e45e90?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:70pP6E6VvznsfrSsznnQnk"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
+              "width": 64
+            }
+          ],
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217081,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG11901864"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hpaWop2LUln6yJ7b0eOza"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0hpaWop2LUln6yJ7b0eOza",
+        "id": "0hpaWop2LUln6yJ7b0eOza",
+        "is_local": false,
+        "is_playable": true,
+        "name": "What Have I Done",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/b555cfff76e9b2a8a7dfeab11943330bd848a626?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0hpaWop2LUln6yJ7b0eOza"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
+              "width": 64
+            }
+          ],
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202346,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG11901866"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ZwihAP8zB5XX1CmYIOBbF",
+        "id": "2ZwihAP8zB5XX1CmYIOBbF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Rome",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e012f2730ebda860d707ea56aac219014df63f9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2ZwihAP8zB5XX1CmYIOBbF"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4nk0xj3tr6st2yzimGINin"
+          },
+          "href": "https://api.spotify.com/v1/albums/4nk0xj3tr6st2yzimGINin",
+          "id": "4nk0xj3tr6st2yzimGINin",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a76689ea2c737fcce29c6a55",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a76689ea2c737fcce29c6a55",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a76689ea2c737fcce29c6a55",
+              "width": 64
+            }
+          ],
+          "name": "Outnumbered (Acoustic)",
+          "release_date": "2019-08-16",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4nk0xj3tr6st2yzimGINin"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234884,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG11901873"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FCdJdGEOBCHqZAYRoZAWV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7FCdJdGEOBCHqZAYRoZAWV",
+        "id": "7FCdJdGEOBCHqZAYRoZAWV",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Outnumbered - Acoustic",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/f0450750e6b7b9dafe42c5360e71e6e51fb1fe94?cid=774b29d4f13844c495f206cafdad9c86",
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:3I09LQbHS3NSU46Ly3tPpR"
+        "uri": "spotify:track:7FCdJdGEOBCHqZAYRoZAWV"
       },
       {
         "album": {
@@ -2226,151 +2074,303 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
               },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
               "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
           },
-          "href": "https://api.spotify.com/v1/albums/4Yf5LJfqpjgl1a4TBiCi07",
-          "id": "4Yf5LJfqpjgl1a4TBiCi07",
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273051ae642ad4a0c1329b41d99",
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02051ae642ad4a0c1329b41d99",
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851051ae642ad4a0c1329b41d99",
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
               "width": 64
             }
           ],
-          "name": "To Be Loved",
-          "release_date": "2013-04-11",
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
           "release_date_precision": "day",
-          "total_tracks": 14,
-          "type": "album",
-          "uri": "spotify:album:4Yf5LJfqpjgl1a4TBiCi07"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
-            "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-          }
-        ],
-        "disc_number": 1,
-        "duration_ms": 199266,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USRE11300016"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0mvkwaZMP2gAy2ApQLtZRv",
-        "id": "0mvkwaZMP2gAy2ApQLtZRv",
-        "is_local": false,
-        "is_playable": true,
-        "name": "It's a Beautiful Day",
-        "popularity": 69,
-        "preview_url": "https://p.scdn.co/mp3-preview/7eea4fbd8aa6c11d2dc0dee7158b4b50c26202a6?cid=774b29d4f13844c495f206cafdad9c86",
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:0mvkwaZMP2gAy2ApQLtZRv"
-      },
-      {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-              "id": "1GxkXlMwML1oSg5eLPiAz3",
-              "name": "Michael Bublé",
-              "type": "artist",
-              "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-          },
-          "href": "https://api.spotify.com/v1/albums/3rpSksJSFdNFqk5vne8at2",
-          "id": "3rpSksJSFdNFqk5vne8at2",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/7b8f628d6723c52e4592657359894f7ec2244744",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/8e386e5cacaf689485ea99dd11f7adf46eb48c35",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/789ac7a323768c29e6bd1a2e41f6a596bada0a31",
-              "width": 64
-            }
-          ],
-          "name": "Michael Bublé",
-          "release_date": "2003",
-          "release_date_precision": "year",
           "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:3rpSksJSFdNFqk5vne8at2"
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
             },
-            "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
-            "id": "1GxkXlMwML1oSg5eLPiAz3",
-            "name": "Michael Bublé",
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
             "type": "artist",
-            "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
           }
         ],
         "disc_number": 1,
-        "duration_ms": 188066,
+        "duration_ms": 224305,
         "explicit": false,
         "external_ids": {
-          "isrc": "USRE10201551"
+          "isrc": "USUG11802832"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
+          "spotify": "https://open.spotify.com/track/0QrUw86ZKRgNGGgrvC5yC5"
         },
-        "href": "https://api.spotify.com/v1/tracks/2ajUl8lBLAXOXNpG4NEPMz",
-        "id": "2ajUl8lBLAXOXNpG4NEPMz",
+        "href": "https://api.spotify.com/v1/tracks/0QrUw86ZKRgNGGgrvC5yC5",
+        "id": "0QrUw86ZKRgNGGgrvC5yC5",
         "is_local": false,
         "is_playable": true,
-        "name": "Sway",
+        "name": "Lost",
         "popularity": 67,
-        "preview_url": "https://p.scdn.co/mp3-preview/3079716f594be8be583389382496a4d1d7160762?cid=774b29d4f13844c495f206cafdad9c86",
+        "preview_url": "https://p.scdn.co/mp3-preview/4c24205b5857412d9d321a30009b88f154a8a6e3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0QrUw86ZKRgNGGgrvC5yC5"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
+              "width": 64
+            }
+          ],
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245924,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG11901862"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1yLSv3RVh0BzTnaGlTapsP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yLSv3RVh0BzTnaGlTapsP",
+        "id": "1yLSv3RVh0BzTnaGlTapsP",
+        "is_local": false,
+        "is_playable": true,
+        "name": "An Evening I Will Not Forget",
+        "popularity": 68,
+        "preview_url": "https://p.scdn.co/mp3-preview/5593167b67da70b6e575c6db909e46988e346ec2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1yLSv3RVh0BzTnaGlTapsP"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jGNAMzrW5HMXdxl9XyBMG",
+          "id": "7jGNAMzrW5HMXdxl9XyBMG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/10dddcd43ac3ec18018c4788abfaec025f69229d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3f0272d6d1a83e32d7931711068a808ec921527e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00a030f33390630d2751ac690fb1f9bd75f7607a",
+              "width": 64
+            }
+          ],
+          "name": "Without Fear",
+          "release_date": "2019-10-04",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7jGNAMzrW5HMXdxl9XyBMG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226837,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUG11901867"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QOfUrTWpIlmziECELlCYN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QOfUrTWpIlmziECELlCYN",
+        "id": "4QOfUrTWpIlmziECELlCYN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dancing Under Red Skies",
+        "popularity": 68,
+        "preview_url": "https://p.scdn.co/mp3-preview/bfec6ea9f2a47ee3ee76f2e4591a4121ae14d050?cid=774b29d4f13844c495f206cafdad9c86",
         "track_number": 10,
         "type": "track",
-        "uri": "spotify:track:2ajUl8lBLAXOXNpG4NEPMz"
+        "uri": "spotify:track:4QOfUrTWpIlmziECELlCYN"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+              "id": "5KNNVgR6LBIABRIomyCwKJ",
+              "name": "Dermot Kennedy",
+              "type": "artist",
+              "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
+          },
+          "href": "https://api.spotify.com/v1/albums/64KvdiGpqwb0Lu1Zn4AcSf",
+          "id": "64KvdiGpqwb0Lu1Zn4AcSf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e5dec1e4917e984a9a846a331d1334a58ccae784",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f68e214a332eec1cf94b5d7c88b6b9ae8a2ebc51",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/220a4aab41e81efe4fcc45d26f4a467c58a6a9e9",
+              "width": 64
+            }
+          ],
+          "name": "Doves & Ravens",
+          "release_date": "2017-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:64KvdiGpqwb0Lu1Zn4AcSf"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy",
+            "type": "artist",
+            "uri": "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251173,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBMJG1703111"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xVrusjXiWhqSQ5dPoiiWX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xVrusjXiWhqSQ5dPoiiWX",
+        "id": "0xVrusjXiWhqSQ5dPoiiWX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "A closeness",
+        "popularity": 68,
+        "preview_url": "https://p.scdn.co/mp3-preview/e61bbc03af1d8e8a735d9aba77a1ad7efe924616?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0xVrusjXiWhqSQ5dPoiiWX"
       }
     ]
   }
